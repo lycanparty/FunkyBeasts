@@ -34,7 +34,7 @@ charadex.sheet = {
     inventory:     "inventory",
     inventoryLog:  "inventory log",
     items:         "items",
-    traits:        "skills",
+    traits:        "traits",
     prompts:       "prompts",
     faq:           "faq",
     staff:         "mods",
@@ -46,8 +46,8 @@ charadex.sheet = {
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
     species: ['All', 'Mammalian', 'Reptilian', 'Avian', 'Aquatic', 'Insectoid', 'Human'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    itemTypes: ['All', 'Currency', 'Token', 'Cybernetic 'Pet', 'Trait', 'Misc'],
+    traitTypes: ['All', 'POWER', 'STYLE', 'SMARTS', 'SPEED', 'REP', 'Misc'],
 
   }
 
