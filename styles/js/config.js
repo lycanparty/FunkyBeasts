@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Funky Beasts",
-  url: "https://funkybeasts.com",
+  url: "https://lycanparty.github.io/FunkyBeasts/",
   description: `Grind Fiction Furry Text ARPG`
 }
 
